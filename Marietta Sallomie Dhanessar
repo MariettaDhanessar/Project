@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextView
+    android:text="Happy Birthday!"
+    android:background="@android:color/darker_pink"
+    android:textColor="white"
+    android:layout_width= "160dp"
+    android:layout_height="85dp"
